@@ -9,7 +9,7 @@ I have faced some issues:
 
 ## Notes
 The carousel only uses the given product data.  
-Because of this, some parts are not included:
+Because of that, these parts are not included even though they are available at sample one:
 - Product rating stars
 - Number of reviews
-- Bestseller labels
+- Bestseller labels (Star product, the most selling)
